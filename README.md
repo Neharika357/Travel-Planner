@@ -40,16 +40,5 @@ This project combines **Web Development (ReactJS + CSS)** with **Graph Algorithm
 
 ---
 
-## Screenshots
-
-### Landing Page
-![Landing Page](./1.png)
-
-### GraphBuilder Page
-![GraphBuilder Page](./2.png)
-
-### Planner Page 
-![Planner Page](./3.png)
-## Demo Video
 
 https://github.com/J-aswanth/Travel-Planner/blob/main/demo.mp4
