@@ -41,4 +41,3 @@ This project combines **Web Development (ReactJS + CSS)** with **Graph Algorithm
 ---
 
 
-https://github.com/J-aswanth/Travel-Planner/blob/main/demo.mp4
